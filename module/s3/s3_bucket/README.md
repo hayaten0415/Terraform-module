@@ -8,3 +8,4 @@
 ## 各ファイルの内容
 - bucket.tf resource定義
 - variable.tf 変数宣言、定義
+- outputs.tf 他のモジュールからも呼び出したいものを定義
